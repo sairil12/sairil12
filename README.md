@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi! I'm **Cyrel**  
-### 3rd Year BSIT / BSCS Student • Aspiring Software Developer • Future Engineer in Tech  
+### 3rd Year BSIT Student • Aspiring Software Developer • 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 
 </div>
