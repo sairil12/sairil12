@@ -1,165 +1,137 @@
+<!-- CENTER INTRO WITH GRADIENT HEADER -->
 <div align="center">
 
-<img src="https://i.imgur.com/jFLLt6h.gif" width="120" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,100:4361ee&height=250&section=header&text=Hi%20I'm%20Cyrel!%20👋&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 
-# ❄️ **Hello, I'm Cyrel**  
-### *An IT Student traveling the long road of learning — one quiet step at a time.*
+### <strong>3rd Year BSIT Student • Aspiring Software Developer</strong>
 
-<img src="https://i.imgur.com/8MhQfAl.gif" width="380" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://i.imgur.com/XsT1vHt.png" width="100%" />
-</div>
+## 🎓 **About Me**
+I’m a **3rd-year Information Technology student** passionate about creating real-world systems, solving problems, and leveling up my development skills every semester.
+
+✨ **What defines me?**  
+- 💻 Passion for **Java, backend logic, system design, and databases**  
+- 🌱 Actively learning **OOP, algorithms, web development, and Flutter**  
+- 📊 Currently doing research on **customer customization & operational efficiency**  
+- 🚀 Aiming to become a **Full-Stack Developer or Software Engineer**  
+- 📷 Photography lover — I run **Sairil’s Phonetography** as my creative outlet  
 
 ---
 
-## ❄️ **About Me**
-
-Like Frieren’s peaceful journey, I’m a **3rd-year BSIT student** progressing quietly, steadily, and with purpose.
-
-I enjoy solving problems, creating systems, and learning magic spells—  
-(or as humans call them… **programming languages**).
-
-- 🧊 Drawn to **Java, backend logic, and calm, structured code**  
-- 🍃 Learning **OOP, algorithms, and mobile/web development**  
-- 📜 Working on research involving **customer customization & analysis**  
-- 🌌 Goal: Become a **Full-Stack Developer**  
-- 📷 Wandering with my hobby — *Sairil’s Phonetography*  
-
----
-
-<div align="center">
-<img src="https://i.imgur.com/fhCw9t8.gif" width="80%" />
-</div>
-
----
-
-## 📜 **Skills & Abilities (My Spellbook)**
+## 🛠️ **Tech Stack (Developing Every Semester!)**
 
 <div align="center">
 
-### ✦ Programming Languages  
-![Java](https://img.shields.io/badge/Java-496F9A?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-5F5FAF?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C0726D?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7EA1D4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-D1B87F?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-5D81C5?style=for-the-badge&logo=dart&logoColor=white)
+### **Languages**
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ✦ Tools & Tomes  
-![Git](https://img.shields.io/badge/Git-7F6A95?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-3C3A47?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-427BA2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-AE8FB5?style=for-the-badge&logo=figma&logoColor=white)
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://i.imgur.com/hxE40rY.gif" width="72%" />
-</div>
+## 📚 **Academic Projects & Experience**
 
----
-
-## 🌙 **Major Quests (Projects)**
-
-### ✧ *Java Payroll System*  
-A structured, disciplined system —  
-like a spell formula written carefully over decades.  
+### 🔸 **Java Payroll System**
 ✔ OOP (inheritance, abstraction, interfaces)  
-✔ File handling  
-✔ Payroll logic, OT, holiday pay  
+✔ File handling data persistence  
+✔ Salary history + OT/holiday computation  
 ✔ Multi-employee types  
-✔ Clean output  
+✔ Clean pay slip output  
 
 ---
 
-### ✧ *Lost & Found Management System*  
-A simple but useful tool for returning what was once lost.  
+### 🔸 **Lost and Found Management System**  
 ✔ PHP + MySQL  
-✔ User & admin flow  
-✔ Modern UI  
+✔ User & admin roles  
+✔ Item return workflow  
+✔ Simple, modern UI  
 
 ---
 
-### ✧ *Research: “Customers Customize Insight”*  
-Understanding human preference —  
-a magic Frieren herself might find curious.  
-✔ Data modeling  
-✔ Documentation  
-✔ Analysis  
+### 🔸 **Research: “Customers Customize Insight”**  
+✔ Café drink customization analysis  
+✔ Customer satisfaction factors  
+✔ Data modeling + documentation  
 
 ---
 
-### ✧ *Portfolio Photography Website*  
-A serene gallery for moments captured in time.  
-✔ Clean layout  
-✔ Responsive  
-✔ Minimalist design  
+### 🔸 **Portfolio / Photography Website**  
+✔ Home • About • Gallery  
+✔ Minimal and aesthetic design  
+✔ Fully responsive  
 
 ---
 
-<div align="center">
-<img src="https://i.imgur.com/7GJ8pWN.gif" width="70%" />
-</div>
-
----
-
-## ⭐ **Stats (Adventurer’s Record)**
+## 📈 **GitHub Activity (Auto-Updating)**  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sairil12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=8ab4f8&icon_color=8ab4f8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sairil12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairil12&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairil12&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairil12&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairil12&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
 
 </div>
 
 ---
 
-## 📖 **What I'm Studying (My Magic Training)**  
-- Advanced OOP spellcraft  
-- Database structure & optimization  
-- Secure PHP authentication  
-- Flutter UI components  
-- Basic digital security  
+## 🧠 **What I'm Currently Learning**
+- Advanced **OOP design principles**  
+- SQL optimization + database normalization  
+- PHP authentication & secure forms  
+- Flutter UI + animations  
+- Basic cybersecurity concepts  
 
 ---
 
-## 🌌 **2025 Goals (My Long Journey Ahead)**  
-- ✦ Build 3–5 new systems  
-- ✦ Improve UI/UX  
-- ✦ Strengthen backend mastery  
-- ✦ Contribute to open-source  
-- ✦ Begin internship experience  
+## 🎯 **Goals for 2025**
+- 🚀 Build 3–5 polished systems for my portfolio  
+- 📁 Upload cleaner, well-documented GitHub repositories  
+- 🎨 Improve UI/UX skills with modern design trends  
+- 🤝 Contribute to open-source  
+- 💼 Get an internship or freelance project  
 
 ---
 
-## 📨 **Contact Me**  
+## 📫 **Contact Me**
 - 📧 **cyrel.rellin@csucc.edu.ph**  
-- 🔗 Facebook: Cyrel Rellin  
+- 🔗 **Facebook: Cyrel Rellin**  
+
+---
+
+## 🌟 **Fun Facts**
+- ☕ Coffee is my debugging fuel  
+- 📸 I take photos of *everything*  
+- 🧠 I learn best by breaking things — then fixing them  
+- 🔧 I like turning complex logic into clean solutions  
 
 ---
 
 <div align="center">
 
-<img src="https://i.imgur.com/4pA0awB.gif" width="180" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:f72585&height=200&section=footer"/>
 
-### *“Even if it takes hundreds of years… I’ll keep moving forward.”*  
-**– Frieren**
-
-❄️ *Thank you for visiting my profile.* ❄️  
-**May your journey be a long, meaningful one.**
+⭐ **Thanks for visiting my profile! Let's build something amazing.** 🚀
 
 </div>
-
----
