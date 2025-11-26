@@ -9,7 +9,7 @@
 ---
 
 ## 🎓 About Me  
-I’m a **3rd-year Information Technology / Computer Science student** currently building real-world projects to strengthen my foundation in programming, software development, and technical problem-solving.
+I’m a **3rd-year Information Technology student** currently building real-world projects to strengthen my foundation in programming, software development, and technical problem-solving.
 
 - 💻 Passionate about **Java development, backend logic, database systems, and clean UI design**  
 - 🌱 Currently learning more about **OOP, file handling, algorithms, and mobile/web development**  
@@ -93,9 +93,8 @@ A multi-employee-type payroll system featuring:
 ---
 
 ## 📫 Contact Me  
-- 📧 *You can add your school or personal email here*  
-- 📸 *Portfolio website (coming soon)*  
-- 🔗 *Add LinkedIn or Facebook link here if you want*
+- 📧 cyrel.rellin@csucc.edu.ph  
+- 🔗 facebook-cyrel rellin
 
 ---
 
