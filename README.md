@@ -1,111 +1,137 @@
+<!-- CENTER INTRO WITH GRADIENT HEADER -->
 <div align="center">
-  
-# 👋 Hi! I'm **Cyrel**  
-### 3rd Year BSIT Student • Aspiring Software Developer • 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,100:4361ee&height=250&section=header&text=Hi%20I'm%20Cyrel!%20👋&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+
+### <strong>3rd Year BSIT Student • Aspiring Software Developer</strong>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
 
 </div>
 
 ---
 
-## 🎓 About Me  
-I’m a **3rd-year Information Technology student** currently building real-world projects to strengthen my foundation in programming, software development, and technical problem-solving.
+## 🎓 **About Me**
+I’m a **3rd-year Information Technology student** passionate about creating real-world systems, solving problems, and leveling up my development skills every semester.
 
-- 💻 Passionate about **Java development, backend logic, database systems, and clean UI design**  
-- 🌱 Currently learning more about **OOP, file handling, algorithms, and mobile/web development**  
-- 📊 Also working on research related to **customer customization & system efficiency**  
-- 🚀 Goal: **Become a full-stack developer** or **software engineer** after graduation  
-- 📷 I also love photography — I run *Sairil’s Phonetography* as a personal hobby project
-
----
-
-## 🛠 Tech Stack (Growing Every Semester!)
-### 🔹 Languages  
-- **Java**, PHP, HTML5, CSS3  
-- JavaScript (basic), Dart/Flutter  
-- SQL / MySQL  
-
-### 🔹 Tools / Platforms  
-- Git & GitHub  
-- XAMPP / WAMP  
-- VS Code • IntelliJ IDEA • NetBeans  
-- Figma (UI Design)  
-- Android Studio (beginner)  
+✨ **What defines me?**  
+- 💻 Passion for **Java, backend logic, system design, and databases**  
+- 🌱 Actively learning **OOP, algorithms, web development, and Flutter**  
+- 📊 Currently doing research on **customer customization & operational efficiency**  
+- 🚀 Aiming to become a **Full-Stack Developer or Software Engineer**  
+- 📷 Photography lover — I run **Sairil’s Phonetography** as my creative outlet  
 
 ---
 
-## 📚 Academic Projects & Experience
+## 🛠️ **Tech Stack (Developing Every Semester!)**
 
-### 🔸 **Java Payroll System (Major Project)**  
-A multi-employee-type payroll system featuring:  
-✔ OOP with inheritance/abstraction  
-✔ File handling for data persistence  
-✔ Deductions, incentives, holiday/OT computation  
-✔ Salary history & updates  
-✔ User-friendly pay slip output  
+<div align="center">
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-fb7a24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</div>
+
+---
+
+## 📚 **Academic Projects & Experience**
+
+### 🔸 **Java Payroll System**
+✔ OOP (inheritance, abstraction, interfaces)  
+✔ File handling data persistence  
+✔ Salary history + OT/holiday computation  
+✔ Multi-employee types  
+✔ Clean pay slip output  
+
+---
 
 ### 🔸 **Lost and Found Management System**  
-✔ Web system (PHP + MySQL)  
-✔ User accounts, item return flow  
-✔ Admin dashboard  
-✔ Modern UI with simplicity  
+✔ PHP + MySQL  
+✔ User & admin roles  
+✔ Item return workflow  
+✔ Simple, modern UI  
+
+---
 
 ### 🔸 **Research: “Customers Customize Insight”**  
-✔ Study about drink customization in cafés  
-✔ Data gathering + analysis  
-✔ System modeling + documentation  
-
-### 🔸 **Portfolio / Photography Website (In Progress)**  
-✔ Home / About Me / Gallery  
-✔ Clean layout  
-✔ Mobile responsive  
+✔ Café drink customization analysis  
+✔ Customer satisfaction factors  
+✔ Data modeling + documentation  
 
 ---
 
-## 📈 GitHub Activity (Auto-Updating)
-
-<p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sairil12&show_icons=true&theme=tokyonight" height="160">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairil12&layout=compact&theme=tokyonight" height="160">
-
-</p>
+### 🔸 **Portfolio / Photography Website**  
+✔ Home • About • Gallery  
+✔ Minimal and aesthetic design  
+✔ Fully responsive  
 
 ---
 
-## 🧩 What I'm Currently Learning  
-- Deeper **OOP design principles**  
-- SQL optimization & relational database design  
-- PHP form handling + authentication  
-- Flutter UI components  
-- Basic cybersecurity practices  
+## 📈 **GitHub Activity (Auto-Updating)**  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sairil12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairil12&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="160" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sairil12&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
+
+</div>
 
 ---
 
-## 🎯 Goals for 2025  
-- 🔹 Build at least **3 new portfolio-worthy systems**  
-- 🔹 Publish **cleaner, more documented GitHub projects**  
-- 🔹 Improve UI/UX skills for personal websites  
-- 🔹 Start contributing to **open-source**  
-- 🔹 Land an **internship or freelance project**  
+## 🧠 **What I'm Currently Learning**
+- Advanced **OOP design principles**  
+- SQL optimization + database normalization  
+- PHP authentication & secure forms  
+- Flutter UI + animations  
+- Basic cybersecurity concepts  
 
 ---
 
-## 📫 Contact Me  
-- 📧 cyrel.rellin@csucc.edu.ph  
-- 🔗 facebook-cyrel rellin
+## 🎯 **Goals for 2025**
+- 🚀 Build 3–5 polished systems for my portfolio  
+- 📁 Upload cleaner, well-documented GitHub repositories  
+- 🎨 Improve UI/UX skills with modern design trends  
+- 🤝 Contribute to open-source  
+- 💼 Get an internship or freelance project  
 
 ---
 
-## 🌟 Fun Facts  
-- Coffee fuels my code. ☕  
-- I take photos of everything — literally. 📷  
-- I learn best by **breaking code, fixing it, and breaking it again**.  
-- I like simplifying complex problems into clean and readable solutions.
+## 📫 **Contact Me**
+- 📧 **cyrel.rellin@csucc.edu.ph**  
+- 🔗 **Facebook: Cyrel Rellin**  
 
 ---
 
-<p align="center">
-  ⭐ **Thanks for visiting my profile!** Feel free to explore my repositories or reach out for collabs!  
-</p>
+## 🌟 **Fun Facts**
+- ☕ Coffee is my debugging fuel  
+- 📸 I take photos of *everything*  
+- 🧠 I learn best by breaking things — then fixing them  
+- 🔧 I like turning complex logic into clean solutions  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:f72585&height=200&section=footer"/>
+
+⭐ **Thanks for visiting my profile! Let's build something amazing.** 🚀
+
+</div>
